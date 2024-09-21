@@ -13,6 +13,18 @@ ShoeSha is an engaging and visually appealing shoe selling website designed to p
 - **JavaScript**: For dynamic interactions and functionality.
 - **Bootstrap**: To ensure a responsive design and utilize pre-designed components for quicker development.
 
+### Screenshots
+### Desktop View
+![Hero Section](https://i.ibb.co/8rJG5V8/desktop-view.png)
+
+
+### Mobile View
+![Hero Section](https://i.ibb.co/mJ3LJgV/mobile-view.png)
+
+## Demo
+
+You can view the live demo of the Netflix clone https://shariffdevmern.github.io/Shoesha-landing-page/
+
 ## Installation
 1. Clone the repository:
    ```bash
