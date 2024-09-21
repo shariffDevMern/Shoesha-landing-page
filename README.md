@@ -19,7 +19,7 @@ ShoeSha is an engaging and visually appealing shoe selling website designed to p
 
 
 ### Mobile View
-![Hero Section](https://i.ibb.co/mJ3LJgV/mobile-view.png)
+![Hero Section](https://i.ibb.co/c6nHQjg/Shoesha-mobils-view.png)
 
 ## Demo
 
