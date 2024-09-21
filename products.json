@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name":"SonicStep",
+        "price": 180,
+        "image": "images/1.png"
+    },
+    {
+        "id": 2,
+        "name":"Urban Trekker",
+        "price": 220,
+        "image": "images/2.png"
+    },
+    {
+        "id": 3,
+        "name":"Mountain Rover",
+        "price": 250,
+        "image": "images/3.png"
+    },
+    {
+        "id": 4,
+        "name":"Executive Splash",
+        "price": 270,
+        "image": "images/4.png"
+    },
+    {
+        "id": 5,
+        "name":"Vibrant Splash",
+        "price": 240,
+        "image": "images/5.png"
+    },
+    {
+        "id": 6,
+        "name":"SportMaster Elite",
+        "price": 300,
+        "image": "images/6.png"
+    },
+    {
+        "id": 7,
+        "name":"WaveFlex Boost",
+        "price": 210,
+        "image": "images/7.png"
+    },
+    {
+        "id": 8,
+        "name":"EdgeTrail Pro",
+        "price": 230,
+        "image": "images/8.png"
+    },
+    {
+        "id": 9,
+        "name":"ZenStride",
+        "price": 260,
+        "image": "images/9.png"
+    },
+    {
+        "id": 10,
+        "name":"GlideMaster",
+        "price": 280,
+        "image": "images/10.png"
+    },
+    {
+        "id": 11,
+        "name":"AquaRunner",
+        "price": 320,
+        "image": "images/11.png"
+    },
+    {
+        "id": 12,
+        "name":"ProWalk Fusion",
+        "price": 190,
+        "image": "images/12.png"
+    },
+    {
+        "id": 13,
+        "name":"TrailBlaze X",
+        "price": 270,
+        "image": "images/13.png"
+    },
+    {
+        "id": 14,
+        "name":"SwiftFlow",
+        "price": 250,
+        "image": "images/14.png"
+    },
+    {
+        "id": 15,
+        "name":"CloudStep Air",
+        "price": 290,
+        "image": "images/15.png"
+    },
+    {
+        "id": 16,
+        "name":"LuxeTread",
+        "price": 300,
+        "image": "images/16.png"
+    }
+]
